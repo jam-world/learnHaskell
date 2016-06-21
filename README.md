@@ -1,2 +1,4 @@
-# learnHaskell
-learn haskell
+# Introduction
+This repo is used for learning haskell.
+
+
